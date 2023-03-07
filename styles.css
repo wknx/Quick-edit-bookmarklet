@@ -39,7 +39,7 @@ body {
     color: var(--text);
     font-size: 2vh;
     margin: 0 auto;
-    max-width: 30em;
+    max-width: 50em;
     padding: .5em 1em;
     background: var(--body);
     box-shadow: 2px 2px 10px var(--shadow);
