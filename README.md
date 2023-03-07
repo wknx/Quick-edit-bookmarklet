@@ -1,5 +1,5 @@
-# Quick-edit-bookmarklet
+# Editor de páginas insantâneo
 
-A bookmarklet to make quick edits to any web site
+Um botão de "Favoritos" que permite a edição da página ativa.
 
-[Go to the page for more info](https://codepo8.github.io/Quick-edit-bookmarklet/)
+[Acesse a página para mais informações](https://wknx.github.io/Quick-edit-bookmarklet/)
